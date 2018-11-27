@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
 			this.label1 = new System.Windows.Forms.Label();
 			this.label2 = new System.Windows.Forms.Label();
 			this.label3 = new System.Windows.Forms.Label();
-			this.btnCalcular = new System.Windows.Forms.Button();
 			this.btnLimpar = new System.Windows.Forms.Button();
 			this.btnCalcular2 = new System.Windows.Forms.Button();
 			this.label4 = new System.Windows.Forms.Label();
@@ -42,6 +42,7 @@
 			this.txtInteiro = new System.Windows.Forms.MaskedTextBox();
 			this.txtBinario2 = new System.Windows.Forms.MaskedTextBox();
 			this.txtInteiro2 = new System.Windows.Forms.MaskedTextBox();
+			this.btnCalcular = new System.Windows.Forms.Button();
 			this.SuspendLayout();
 			// 
 			// label1
@@ -71,16 +72,6 @@
 			this.label3.Size = new System.Drawing.Size(72, 13);
 			this.label3.TabIndex = 2;
 			this.label3.Text = "Valor Binário :";
-			// 
-			// btnCalcular
-			// 
-			this.btnCalcular.Location = new System.Drawing.Point(18, 172);
-			this.btnCalcular.Name = "btnCalcular";
-			this.btnCalcular.Size = new System.Drawing.Size(234, 47);
-			this.btnCalcular.TabIndex = 5;
-			this.btnCalcular.Text = "Calcular";
-			this.btnCalcular.UseVisualStyleBackColor = true;
-			this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
 			// 
 			// btnLimpar
 			// 
@@ -172,11 +163,24 @@
 			this.txtInteiro2.Size = new System.Drawing.Size(77, 20);
 			this.txtInteiro2.TabIndex = 18;
 			// 
+			// btnCalcular
+			// 
+			this.btnCalcular.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+			this.btnCalcular.Location = new System.Drawing.Point(18, 172);
+			this.btnCalcular.Name = "btnCalcular";
+			this.btnCalcular.Size = new System.Drawing.Size(234, 47);
+			this.btnCalcular.TabIndex = 5;
+			this.btnCalcular.Text = "Calcular";
+			this.btnCalcular.UseVisualStyleBackColor = true;
+			this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(800, 450);
+			this.BackColor = System.Drawing.SystemColors.Info;
+			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+			this.ClientSize = new System.Drawing.Size(620, 450);
 			this.Controls.Add(this.txtInteiro2);
 			this.Controls.Add(this.txtBinario2);
 			this.Controls.Add(this.txtInteiro);
@@ -191,8 +195,9 @@
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.label1);
+			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.Name = "Form1";
-			this.Text = "Form1";
+			this.Text = "Conversor";
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
@@ -203,7 +208,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.Button btnLimpar;
         private System.Windows.Forms.Button btnCalcular2;
         private System.Windows.Forms.Label label4;
@@ -214,6 +218,7 @@
 		private System.Windows.Forms.MaskedTextBox txtInteiro;
 		private System.Windows.Forms.MaskedTextBox txtBinario2;
 		private System.Windows.Forms.MaskedTextBox txtInteiro2;
+		private System.Windows.Forms.Button btnCalcular;
 	}
 }
 
