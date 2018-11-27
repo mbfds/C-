@@ -1,0 +1,20 @@
+C:\Users\20181450297\source\repos\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\20181450297\source\repos\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\20181450297\source\repos\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\20181450297\source\repos\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\20181450297\source\repos\Conversor\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\20181450297\source\repos\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\20181450297\source\repos\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\20181450297\source\repos\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\20181450297\source\repos\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\20181450297\source\repos\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\obj\Debug\Conversor.pdb
