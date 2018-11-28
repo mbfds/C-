@@ -21,7 +21,6 @@ C:\Users\Marcelo Barros\Desktop\Conversor\Conversor\obj\Debug\Conversor.pdb
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\bin\Debug\Conversor.exe.config
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\bin\Debug\Conversor.exe
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\bin\Debug\Conversor.pdb
-C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.Form1.resources
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
