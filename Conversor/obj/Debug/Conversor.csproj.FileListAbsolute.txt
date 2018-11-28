@@ -27,3 +27,4 @@ C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.csproj
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.exe
 C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\Marcelo Barros\Documents\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
